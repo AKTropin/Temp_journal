@@ -1,3 +1,0 @@
-rootProject.name='Temp journal'
-include ':app'
-include ':app:lessons'
